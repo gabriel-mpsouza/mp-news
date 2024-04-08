@@ -14,7 +14,7 @@
  *    devem exibir o seguinte reconhecimento:
  *      Este produto inclui software desenvolvido pela E.R.E.F
  *      Maciel Pinheiro e seus colaboradores.
- * 4. Nem o nome da Universidade nem os nomes de seus colaboradores
+ * 4. Nem o nome da E.R.E.F nem os nomes de seus colaboradores
  *    podem ser utilizados para endossar ou promover produtos derivados deste software
  *    sem permissão específica por escrito.
  *
