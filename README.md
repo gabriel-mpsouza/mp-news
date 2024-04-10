@@ -36,4 +36,4 @@ Para mais informações ou para entrar em contato com a equipe de desenvolviment
 
 ## Licença
 
-Este projeto é licenciado sob a [MIT License](https://github.com/gabriel-mpsouza/mp-news/blob/main/LICENSE.txt).
+Este projeto é licenciado sob a [Licença MP/GM](https://github.com/gabriel-mpsouza/mp-news/blob/main/LICENSE.txt).
