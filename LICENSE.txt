@@ -1,6 +1,10 @@
 /*
  * Copyright (c) 2023, 2024
- *      Os Regentes da E.R.E.F Maciel Pinheiro. Todos os direitos reservados.
+ *      Os Regentes da E.R.E.F Maciel Pinheiro,
+ *      Gabriel Moura Passos de Souza,
+ *      Mário Rafael da Silva Barros,
+ *      Leandro José da Fonseca Luna,
+ *      Todos os direitos reservados.
  *
  * A redistribuição e uso em forma de código fonte e binário, com ou sem
  * modificação, são permitidos, desde que as seguintes condições
