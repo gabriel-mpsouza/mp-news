@@ -4,6 +4,7 @@
  *      Gabriel Moura Passos de Souza,
  *      Mário Rafael da Silva Barros,
  *      Leandro José da Fonseca Luna,
+ *      Yan Davi dos santos Silva,
  *      Todos os direitos reservados.
  *
  * A redistribuição e uso em forma de código fonte e binário, com ou sem
